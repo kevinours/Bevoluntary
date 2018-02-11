@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'Viga-Regular';
+	src: url('../fonts/Viga-Regular.ttf');
+	src: local('Viga-Regular'), local('Viga'), url('../fonts/Viga-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Amaranth-Bold';
+	src: url('../fonts/Amaranth-Bold.ttf');
+	src: local('Amaranth-Bold'), local('Amaranth-Bold'), url('../fonts/Amaranth-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Amaranth-BoldItalic';
+	src: url('../fonts/Amaranth-BoldItalic.ttf');
+	src: local('Amaranth-BoldItalic'), local('Amaranth-BoldItalic'), url('../fonts/Amaranth-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Amaranth-Italic';
+	src: url('../fonts/Amaranth-Italic.ttf');
+	src: local('Amaranth-Italic'), local('Amaranth-Italic'), url('../fonts/Amaranth-Italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Amaranth-Regular';
+	src: url('../fonts/Amaranth-Regular.ttf');
+	src: local('Amaranth-Regular'), local('Amaranth-Regular'), url('../fonts/Amaranth-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'PatrickHand-Regular';
+	src: url('../fonts/PatrickHand-Regular.ttf');
+	src: local('PatrickHand-Regular'), local('PatrickHand-Regular'), url('../fonts/PatrickHand-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Petrona-Regular';
+	src: url('../fonts/Petrona-Regular.ttf');
+	src: local('Petrona-Regular'), local('Petrona-Regular'), url('../fonts/Petrona-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Roboto-Thin';
+	src: url('../fonts/Roboto-Thin.ttf');
+	src: local('Roboto-Thin'), local('Roboto-Thin'), url('../fonts/Roboto-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Roboto-Regular';
+	src: url('../fonts/Roboto-Regular.ttf');
+	src: local('Roboto-Regular'), local('Roboto-Regular'), url('../fonts/Roboto-Regular.ttf') format('truetype');
+}
